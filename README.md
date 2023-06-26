@@ -7,4 +7,4 @@
 <h2><u>Bùi Nhật Huy</u></h2><br>
 <h3>Website Bán Giày</h3>
 Bảng Báo Cáo 
-<a>https://docs.google.com/spreadsheets/d/1KjbsmrcUHyjaiRrPtt7TTk_ML1IhEwB66PLC8TcUEmk/edit?usp=sharing</a>
+<a href="https://docs.google.com/spreadsheets/d/1KjbsmrcUHyjaiRrPtt7TTk_ML1IhEwB66PLC8TcUEmk/edit?usp=sharing">Sheet</a>
